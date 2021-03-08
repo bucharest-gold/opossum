@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [5.1.4](https://www.github.com/nodeshift/opossum/compare/v5.1.3...v5.1.4) (2021-03-08)
+
+
+### Bug Fixes
+
+* upgrade multiple dependencies with Snyk ([#545](https://www.github.com/nodeshift/opossum/issues/545)) ([9191afb](https://www.github.com/nodeshift/opossum/commit/9191afba6c433371d897c8cfe0f800f5a00b4efc))
+* upgrade multiple dependencies with Snyk ([#548](https://www.github.com/nodeshift/opossum/issues/548)) ([8db0e9e](https://www.github.com/nodeshift/opossum/commit/8db0e9ec57b510a6f929cdbcfa0c474f6dc1950c))
+* upgrade webpack from 5.11.1 to 5.12.1 ([#538](https://www.github.com/nodeshift/opossum/issues/538)) ([34b6d61](https://www.github.com/nodeshift/opossum/commit/34b6d618c892205f6478d20dbf6171181edbaab7))
+* upgrade webpack from 5.12.1 to 5.20.1 ([#543](https://www.github.com/nodeshift/opossum/issues/543)) ([38b3e61](https://www.github.com/nodeshift/opossum/commit/38b3e61ad09fecb8e6fd22ff06069d9ff5465f2f))
+* upgrade webpack from 5.20.1 to 5.20.2 ([#546](https://www.github.com/nodeshift/opossum/issues/546)) ([d7952d5](https://www.github.com/nodeshift/opossum/commit/d7952d5cf0dfd4e546f104d513469e9ca6f2e649))
+* upgrade webpack-cli from 4.3.1 to 4.4.0 ([#539](https://www.github.com/nodeshift/opossum/issues/539)) ([b089f0b](https://www.github.com/nodeshift/opossum/commit/b089f0b8650f69fa204c8c14a6879f46894a965d))
+* upgrade webpack-cli from 4.4.0 to 4.5.0 ([#544](https://www.github.com/nodeshift/opossum/issues/544)) ([83110a4](https://www.github.com/nodeshift/opossum/commit/83110a4936230c58783d73741e88f6a1878c668f))
+
 ### [5.1.3](https://www.github.com/nodeshift/opossum/compare/v5.1.2...v5.1.3) (2021-01-25)
 
 
